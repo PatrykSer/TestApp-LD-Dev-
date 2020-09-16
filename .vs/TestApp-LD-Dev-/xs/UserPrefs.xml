@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{EB1AB915-F4E1-DF83-45FE-95980A9EB91F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/JobSystem.cs">
+    <Files>
+      <File FileName="Assets/Scripts/JobSystem.cs" Line="10" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestApp-LD-Dev-" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="JobSystem.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="515fb52c-564b-42c0-bf6d-0b5260a5c669" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
